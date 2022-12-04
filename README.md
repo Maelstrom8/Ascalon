@@ -74,7 +74,7 @@ Due to my sheer inexperience of playing with mods, I do not know what happens if
 4. This is how you launch the modlist, don't launch it through Steam.
 
 
-## Gameplay Mods, Modifications and or how DD:DA works in Mod Organizer 2
+## Gameplay Mods, Modifications and or how DD:DA works in MO2
 
 All of this is covered in the Gameplay and Modding Documentation [here] (link)
 
