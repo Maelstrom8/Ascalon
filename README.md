@@ -36,7 +36,7 @@ You need to have a clean un-modified version of DD:DA. Do this by verifying file
 
 # Wabbajack Instructions
 
-Small walk-through for installing Wabbajack for those who have not used Wabbajack yet. For those who don't need to install WJ - skip ahead to xxx
+Small walk-through for installing Wabbajack for those who have not used Wabbajack yet. For those who don't need to install WJ - proceed to [here] (#save-files)
 
 #### Installing Wabbajack
 
@@ -46,14 +46,39 @@ Download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/w
 
 1. Open Wabbajack and click `Browse Modlists`
 2. Tick on the `Show Unofficial lists` option in the top right corner of Wabbajack
-3. Press the download button on Arisen and wait for it to download.
+3. Find Ascalon, click the download button below the gallery image and wait for it to download.
 4. Set the installation folder to be somewhere like C:\Games\Ascalon. Follow the directory rules above.
 5. Press the play button to begin.
 6. In the small time it takes to install, I recommend you spend your time reading this readme - as it's more important than your average readme
 7. ???
 8. Profit
 
+Updating Ascalon is done the same way, just make sure your directories match where it's installed and hit overwrite.
+
 #### Nexus Premium vs Non-Premium
 
 If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. Premium isn't needed for such a small amount of mods as this list has, but it will help.
 
+
+## Save Files
+
+### Save Files for this game are not specific to this modlist. If you have a current save, you will load into it be - whether or not you have mods.
+#### This modlist is designed for a new save
+
+Due to my sheer inexperience of playing with mods, I do not know what happens if you load into an existing game with these mods. Back your save up if you already have one prior to using this list.
+
+## Launching Ascalon
+
+1. Launch the copy of Mod Organizer 2 found inside your Ascalon folder.
+2. In the top-right corner of Mod Organizer, you’ll see a large dropdown menu. Dragon's Dogma should be automatically selected. If it is not, select it.
+3. Click the large Run button.
+4. This is how you launch the modlist, don't launch it through Steam.
+
+
+## Gameplay Mods, Modifications and or how DD:DA works in Mod Organizer 2
+
+All of this is covered in the Gameplay and Modding Documentation [here] (link)
+
+## Bugs / Install Help
+
+This is reserved for channels on the Waking Dreams Discord
