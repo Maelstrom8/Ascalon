@@ -59,12 +59,15 @@ Updating Ascalon is done the same way, just make sure your directories match whe
 
 If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. Premium isn't needed for such a small amount of mods as this list has, but it will help.
 
+---
 
 ## Save Files
 
 ### **Save Files for this game are not specific to this modlist. If you have a current save, you will load into it be - whether or not you have mods. This modlist is designed for a new save**
 
 Due to my sheer inexperience of playing with mods, I do not know what happens if you load into an existing game with these mods. Back your save up if you already have one prior to using this list.
+
+---
 
 ## Launching Ascalon
 
@@ -73,11 +76,14 @@ Due to my sheer inexperience of playing with mods, I do not know what happens if
 3. Click the large Run button.
 4. This is how you launch the modlist, don't launch it through Steam.
 
+---
 
 ## Gameplay Mods, Modifications and or how DD:DA works in MO2
 
 All of this is covered in the Gameplay and Modding Documentation [here] (link)
 
+---
+
 ## Bugs / Install Help
 
-This is reserved for channels on the Waking Dreams Discord
+soon
