@@ -53,7 +53,7 @@ Download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/w
 7. ???
 8. Profit
 
-#### Premium vs Non-Premium
+#### Nexus Premium vs Non-Premium
 
-If you have Premium, WJ request a Nexus login and use the api to download all automatically. Without Premium, you'll be prompted to manually download the mods. Premium isn't needed for such a small amount of mods as this list has, but it will help.
+If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. Premium isn't needed for such a small amount of mods as this list has, but it will help.
 
