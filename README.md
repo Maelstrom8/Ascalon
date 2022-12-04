@@ -36,7 +36,7 @@ You need to have a clean un-modified version of DD:DA. Do this by verifying file
 
 # Wabbajack Instructions
 
-Small walk-through for installing Wabbajack for those who have not used Wabbajack yet. For those who don't need to install WJ - proceed to [here] (#Save-Files)
+Small walk-through for installing Wabbajack for those who have not used Wabbajack yet. For those who don't need to install WJ - proceed to [here](#Save-Files)
 
 #### Installing Wabbajack
 
