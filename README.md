@@ -62,7 +62,7 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 
 ## Save Files
 
-### **Save Files for this game are not specific to this modlist. If you have a current save, you will load into it be - whether or not you have mods.This modlist is designed for a new save**
+### **Save Files for this game are not specific to this modlist. If you have a current save, you will load into it be - whether or not you have mods. This modlist is designed for a new save**
 
 Due to my sheer inexperience of playing with mods, I do not know what happens if you load into an existing game with these mods. Back your save up if you already have one prior to using this list.
 
