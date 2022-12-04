@@ -2,7 +2,7 @@
 
 [work in progress banner]
 
-======
+---
 
 # THIS IS A MANDATORY READ ME, STOP RIGHT THERE AND READ
 
@@ -16,7 +16,7 @@ Ascalon is dual-purpose modlist for Dragon's Dogma: Dark Arisen that I have been
 
 The secondary goal / purpose is where I include mod templates and provide documentation on the modding elements, so users can mix and match mods if they feel they don't like a certain mod on one of the profiles. Along with that, I feel this is a list that will help further people's knowledge/fun for DD:DA modding until well.. Dragon's Dogma 2 releases.
 
-======
+---
 
 # Requirements
 
@@ -32,7 +32,7 @@ I only support the Steam version of DD:DA. Not GoG, or any platform that may hav
 
 You need to have a clean un-modified version of DD:DA. Do this by verifying files through the game's properties. You can also back-up data this way. 
 
-======
+---
 
 # Wabbajack Instructions
 
