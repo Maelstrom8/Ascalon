@@ -12,7 +12,7 @@ DD:DA has these tweaks I dub "parameter modifications", such as jump height, car
 
 I dislike people who complain about what they don't like, but I also like it when someone figures out how to change something to fit their tastes - admittedly at the cost of explaining it to them. I do not give a shit if people want to change something in the game, it is a mostly a singleplayer game. I believe you should have the power to - granted you know how to do it.
 
-That being said.. ***DO NOT SKIP OVER THIS README, IT IS MANDATORY TO READ - ALL OF IT. THERE IS AN ONLINE MECHANIC TO THIS, CERTAIN MODS CAN AFFECT PAWNS AND NOT IN A GOOD WAY, FAILURE TO READ EVERYTHING CAN RESULT IN SADNESS***
+That being said.. ***THIS README APPEARS SHORT BUT IT IS MANDATORY TO READ EVERYTHING, INCLUDING THE TWO OTHER PAGES OF DOCUMENTATION. THE GAME HAS ONLINE FEATURES, AND SOME MODS AFFECT PAWNS IN A CERTAIN WAY, YOU DON'T WANNA FUCK AROUND AND FIND OUT HERE. READ IT ALL.***
 
 ---
 
@@ -43,7 +43,7 @@ Also, the list only works through a legit copy of DD:DA through Steam. I do not 
 
 # Wabbajack Instructions
 
-Small walk-through for installing Wabbajack for those who have not used Wabbajack yet. For those who don't need to install WJ - proceed to [here](#Save-Files)
+Small little walkthrough for first time WJ installers. Already installed it? Sick. Move to the next relevant point.
 
 ### Installing Wabbajack
 
