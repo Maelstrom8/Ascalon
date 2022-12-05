@@ -1,22 +1,25 @@
 # Ascalon
 
-[work in progress banner]
+(https://i.imgur.com/x2iNtQx.png)
 
 ---
-
-# THIS IS A MANDATORY READ ME, STOP RIGHT THERE AND READ
-
-THIS README IS NOT OPTIONAL, YOU MUST READ THE DOCUMENTATION BEFORE HITTING PLAY IN MO2 - THIS IS DIFFERENT THAN IT SIMPLY NOT WORKING - THIS IS MORE ALONG THE LINES OF CERTAIN MODS IN A SECONDARY PROFILE NOT BEING SAFE FOR ONLINE PLAY (FOR PAWNS). So read it all.
 
 # Introduction
 
-Huge fan of Dragon's Dogma: Dark Arisen. Played it back in the day on the PS3, joined the Official Pawn Sharing Club, had a lot of fun. Bought the game on Steam back in 2016, added probably 200+ people.. probably played for about a good year or two before I stopped. Haven't played it since. I haven't really played with mods before, I've seen them but.. I was more of a vanilla-guy for DD:DA. After spending a bunch of time modding Skyrim and replaying other games.. well I can say that has changed.
+Ascalon is basically my personal modlist I created for Dragon's Dogma: Dark Arisen while I wait for the sequel. I've been working on it for a month or two. It is a modlist with a multi-purpose. The list aims to provide general enjoyment, educate people on DD:DA mods, and lastly allows people to personalize some of the mods to a degree.
 
-Ascalon is dual-purpose modlist for Dragon's Dogma: Dark Arisen that I have been working on for about a month now. The primary goal is to provide two profiles; a standard profile that has LDKSuperDante's "Remastering Dragon's Dogma" series, featuring armor, environment and weapon retextures and also includes some other popular mods - this is meant for more vanilla-like experience or to be new player friendly. The secondary profile consists of parameter tweaking mods like Jump Height, Carry Weight, Augment effects.. these are more experimental and depending on deep you go, you CANNOT have your pawn set to online when using some of them. They are meant to be for veterans.
+DD:DA has these tweaks I dub "parameter modifications", such as jump height, carry weight, stamina drain while sprinting, quest rewards, changes to augments, stat growth, etc. The base profile will contain none of these, but to offset this, I have remade outdated such mods and made several 'example' versions of these, which will be provided as optionals within the modlist and also explained in this documentation, with easy instructions on merging them into your game. Why?
 
-The secondary goal / purpose is where I include mod templates and provide documentation on the modding elements, so users can mix and match mods if they feel they don't like a certain mod on one of the profiles. Along with that, I feel this is a list that will help further people's knowledge/fun for DD:DA modding until well.. Dragon's Dogma 2 releases.
+I dislike people who complain about what they don't like, but I also like it when someone figures out how to change something to fit their tastes - admittedly at the cost of explaining it to them. I do not give a shit if people want to change something in the game, it is a mostly a singleplayer game. I believe you should have the power to - granted you know how to do it.
+
+That being said.. ***DO NOT SKIP OVER THIS README, IT IS MANDATORY TO READ - ALL OF IT. THERE IS AN ONLINE MECHANIC TO THIS, CERTAIN MODS CAN AFFECT PAWNS AND NOT IN A GOOD WAY, FAILURE TO READ EVERYTHING CAN RESULT IN SADNESS***
 
 ---
+
+### Gameplay & Modding Documentation
+
+- If you want to see what mods are used in Ascalon - see [Gameplay Documentation](link)
+- If you want to learn how to modify this list - see [Modding Documentation](link)
 
 # Requirements
 
@@ -26,11 +29,15 @@ For the base game's requirements.. it's 6 years old. If you have a computer that
 
 # Installation
 
+## Microsoft Visual C++ Redistributable Package
+
+MO2 requires Microsoft Visual C++ Redistributable Package. Don't have it? [Download it.](https://aka.ms/vs/16/release/vc_redist.x64.exe)
+
 ## Steam Setup
 
-I only support the Steam version of DD:DA. Not GoG, or any platform that may have it. I have no plans to support them at this time.
+Ascalon requires a clean/unmodified Dragon's Dogma: Dark Arisen. Verify your files via the properties to do so.
 
-You need to have a clean un-modified version of DD:DA. Do this by verifying files through the game's properties. You can also back-up data this way. 
+Also, the list only works through a legit copy of DD:DA through Steam. I do not support other platforms like GOG and never will.
 
 ---
 
@@ -38,11 +45,11 @@ You need to have a clean un-modified version of DD:DA. Do this by verifying file
 
 Small walk-through for installing Wabbajack for those who have not used Wabbajack yet. For those who don't need to install WJ - proceed to [here](#Save-Files)
 
-#### Installing Wabbajack
+### Installing Wabbajack
 
-Download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)) on this github and place it in a folder such as `C:\Wabbajack`. Do not extract it to your Steamlibary / DD:DA directory, Program Files, or User Directories like Documents, Downloads and so forth. You can use an SSD to speed up the process, but for such a small list you don't really NEED one.
+Download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)). Place it in a folder such as `C:\Wabbajack`. Do not extract it to any of your Steam Library directories nor your DD:DA directory. Do not extract it to Program Files, or User Directories like Documents, Downloads and so forth. You can use an SSD to speed up the process, but it's not required for this list in particular.
 
-#### Installing Ascalon 
+### Installing Ascalon 
 
 1. Open Wabbajack and click `Browse Modlists`
 2. Tick on the `Show Unofficial lists` option in the top right corner of Wabbajack
@@ -55,7 +62,7 @@ Download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/w
 
 Updating Ascalon is done the same way, just make sure your directories match where it's installed and hit overwrite.
 
-#### Nexus Premium vs Non-Premium
+### Nexus Premium vs Non-Premium
 
 If you have Premium, WJ will request a Nexus login and use the api to download all mods automatically. Without Premium, you'll be prompted to manually download the mods. Premium isn't needed for such a small amount of mods as this list has, but it will help.
 
@@ -78,12 +85,13 @@ Due to my sheer inexperience of playing with mods, I do not know what happens if
 
 ---
 
-## Gameplay Mods, Modifications and or how DD:DA works in MO2
-
-All of this is covered in the Gameplay and Modding Documentation [here] (link)
-
----
-
 ## Bugs / Install Help
 
-soon
+See the support channel on the [Waking Dreams Discord](link)
+
+## Thanks/Credits
+
+- Everfall for influencing this list.
+- The DD:DA modding community.
+- Halgari - for making Wabbajack. Wouldn't have been possible otherwise.
+- You, made you look.
