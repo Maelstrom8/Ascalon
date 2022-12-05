@@ -1,6 +1,6 @@
 # Ascalon
 
-(https://i.imgur.com/x2iNtQx.png)
+![Ascalon](https://i.imgur.com/x2iNtQx.png)
 
 ---
 
