@@ -47,7 +47,7 @@ Small walk-through for installing Wabbajack for those who have not used Wabbajac
 
 ### Installing Wabbajack
 
-Download the [latest version of Wabbajack]((https://github.com/wabbajack-tools/wabbajack/releases)). Place it in a folder such as `C:\Wabbajack`. Do not extract it to any of your Steam Library directories nor your DD:DA directory. Do not extract it to Program Files, or User Directories like Documents, Downloads and so forth. You can use an SSD to speed up the process, but it's not required for this list in particular.
+Download the [latest version of Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases). Place it in a folder such as `C:\Wabbajack`. Do not extract it to any of your Steam Library directories nor your DD:DA directory. Do not extract it to Program Files, or User Directories like Documents, Downloads and so forth. You can use an SSD to speed up the process, but it's not required for this list in particular.
 
 ### Installing Ascalon 
 
