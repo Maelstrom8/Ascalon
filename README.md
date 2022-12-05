@@ -29,11 +29,11 @@ For the base game's requirements.. it's 6 years old. If you have a computer that
 
 # Installation
 
-## Microsoft Visual C++ Redistributable Package
+### Microsoft Visual C++ Redistributable Package
 
 MO2 requires Microsoft Visual C++ Redistributable Package. Don't have it? [Download it.](https://aka.ms/vs/16/release/vc_redist.x64.exe)
 
-## Steam Setup
+### Steam Setup
 
 Ascalon requires a clean/unmodified Dragon's Dogma: Dark Arisen. Verify your files via the properties to do so.
 
@@ -76,7 +76,7 @@ Due to my sheer inexperience of playing with mods, I do not know what happens if
 
 ---
 
-## Launching Ascalon
+### Launching Ascalon
 
 1. Launch the copy of Mod Organizer 2 found inside your Ascalon folder.
 2. In the top-right corner of Mod Organizer, you’ll see a large dropdown menu. Dragon's Dogma should be automatically selected. If it is not, select it.
@@ -85,11 +85,11 @@ Due to my sheer inexperience of playing with mods, I do not know what happens if
 
 ---
 
-## Bugs / Install Help
+### Bugs / Install Help
 
 See the support channel on the [Waking Dreams Discord](link)
 
-## Thanks/Credits
+### Thanks/Credits
 
 - Everfall for influencing this list.
 - The DD:DA modding community.
