@@ -12,7 +12,7 @@ DD:DA has these tweaks I dub "parameter modifications", such as jump height, car
 
 I dislike people who complain about what they don't like, but I also like it when someone figures out how to change something to fit their tastes - admittedly at the cost of explaining it to them. I do not give a shit if people want to change something in the game, it is a mostly a singleplayer game. I believe you should have the power to - granted you know how to do it.
 
-That being said.. ***THIS README APPEARS SHORT BUT IT IS MANDATORY TO READ EVERYTHING, INCLUDING THE TWO OTHER PAGES OF DOCUMENTATION. THE GAME HAS ONLINE FEATURES, AND SOME MODS AFFECT PAWNS IN A CERTAIN WAY, YOU DON'T WANNA FUCK AROUND AND FIND OUT HERE. READ IT ALL.***
+That being said.. ***IT IS MANDATORY TO READ EVERYTHING, INCLUDING THE TWO OTHER PAGES OF DOCUMENTATION. THE GAME HAS ONLINE FEATURES, AND SOME MODS AFFECT THE PAWN SYSTEM IN A CERTAIN WAY - HOW YOU ASK? READ IT ALL TO FIND OUT.***
 
 ---
 
