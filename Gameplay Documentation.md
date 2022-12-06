@@ -33,7 +33,6 @@ Ascalon's mods are as follows:
 - [LDK's Armory](https://www.nexusmods.com/dragonsdogma/mods/721) by LDKSuperDante
 - [Remastering Dragon's Dogma Sneak Peek](https://www.nexusmods.com/dragonsdogma/mods/479?tab=description) By LDKSuperDante
 - [Real Steel](https://www.nexusmods.com/dragonsdogma/mods/494) by LDKSuperDante
-
 - Alchemical Cloak - No Clipping Cloaks
 - Sovereigns Mantle - No Clipping Cloaks
 - Wyrm Hunt Mantle - No Clipping Cloaks
