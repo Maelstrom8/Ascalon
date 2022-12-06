@@ -42,3 +42,8 @@ Ascalon's mods are as follows:
 - [Remastering Dragon's Dogma Final Sneak Peek - Gran Soren](https://www.nexusmods.com/dragonsdogma/mods/492?tab=description) by LDKSuperDante
 - [Remastering Dragon's Dogma Sneak Peek 2 - Gransys](https://www.nexusmods.com/dragonsdogma/mods/489?tab=description) by LDKSuperDante
 
+### LIST MODIFICATIONS
+
+If you want to modify the list, I hereby refer you to [Modding Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Modding%20Documentation.md). 
+
+Everything will be explained there.
