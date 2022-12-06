@@ -94,7 +94,7 @@ Due to my sheer inexperience of playing with mods, I do not know what happens if
 
 ### Bugs / Install Help
 
-See the support channel on the [Waking Dreams Discord](link)
+See the relevant channel on the Waking Dreams Discord wip
 
 ### Thanks/Credits
 
