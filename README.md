@@ -21,11 +21,17 @@ That being said.. ***THIS README APPEARS SHORT BUT IT IS MANDATORY TO READ EVERY
 - If you want to see what mods are used in Ascalon - see [Gameplay Documentation](link)
 - If you want to learn how to modify this list - see [Modding Documentation](link)
 
-# Requirements
+# Requirements 
 
 You need to own a legitimate copy of Dragon's Dogma: Dark Arisen. Also, your installation needs to be clean / unmodified. 
 
-For the base game's requirements.. it's 6 years old. If you have a computer that wasn't built 20 years ago, you should be able to run it at 60 fps.
+For the base game's requirements.. it's 6 years old or even older probably. If you have a computer that wasn't built 20 years ago, you should be able to run it at 60 fps.
+
+# ENB
+
+The only preset I honestly liked for DD:DA was Rudy, but it's for ENBSeries v0.300. The newest version of ENBSeries is v0.476 which I included with the list. 
+
+I have included Rudy's ENB but it lacks the features that v0.476 has. I'm not experienced in the matter so it may be not work. Feel free to use this to make your own, it's not something I personally want to spend time on right now.
 
 # Installation
 
@@ -73,6 +79,7 @@ If you have Premium, WJ will request a Nexus login and use the api to download a
 ### **Save Files for this game are not specific to this modlist. If you have a current save, you will load into it be - whether or not you have mods. This modlist is designed for a new save**
 
 Due to my sheer inexperience of playing with mods, I do not know what happens if you load into an existing game with these mods. Back your save up if you already have one prior to using this list.
+
 
 ---
 
