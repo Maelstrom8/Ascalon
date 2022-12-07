@@ -36,15 +36,12 @@ Most of it is from LDKSuperDante. I didn't like any of the 'switch around armor 
 - [Real Steel](https://www.nexusmods.com/dragonsdogma/mods/494) -- Contains some weapons with texture improvements.
 - [No Clipping Cloaks](https://www.nexusmods.com/dragonsdogma/mods/140) -- Fixes clipping issues for Alchemical Cloak, Sovereigns Mantle and Wyrm Hunt Mantle. One of the cloaks fixes may potentially be overwritten by one of LDK's mods. Small issues like this will have to be saved for a future update.
 
-
 ## Environment
 
 These contain texture improvements for Gran Soren and Gransys. The resolution is 4K. There was another texture improvement project that had several parts to it, but quite honestly instead of tryna graphically overhaul this game like Skyrim modders do to Skyrim, I'd rather just wait for Dragon's Dogma 2 on the RE Engine.
 
 - [Remastering Dragon's Dogma Final Sneak Peek - Gran Soren](https://www.nexusmods.com/dragonsdogma/mods/492?tab=description) -- Contains only Gran Soren
 - [Remastering Dragon's Dogma Sneak Peek 2 - Gransys](https://www.nexusmods.com/dragonsdogma/mods/489?tab=description) 
-
----
 
 ## Optional Mods
 
@@ -55,7 +52,7 @@ These are not enabled, but included as optionals within the list.
 
 ---
 
-### LIST MODIFICATIONS
+# LIST MODIFICATIONS
 
 If you want to modify the list and or get into the 'param' tweak mods (such as modifying Jump Height, Carry Weight, Stamina Drain etc), I hereby refer you to [Modding Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Modding%20Documentation.md). 
 
