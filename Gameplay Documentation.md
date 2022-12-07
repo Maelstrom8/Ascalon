@@ -38,10 +38,6 @@ Most of it is from LDKSuperDante. I didn't like any of the 'switch around armor 
 - [Sovereigns Mantle - No Clipping Cloaks](https://www.nexusmods.com/dragonsdogma/mods/140) -- They were fixed so they don't clip through the body, may or may not have been overwritten by another mod
 - [Wyrm Hunt Mantle - No Clipping Cloaks](https://www.nexusmods.com/dragonsdogma/mods/140) -- They were fixed so they don't clip through the body, may or may not have been overwritten by another mod
 
-- PROVIDED AS AN OPTIONAL MOD 
-
-[Black Retextures & More](https://www.nexusmods.com/dragonsdogma/mods/5) -- Colors a lot of armors, mostly assassin-themed ones black. Unless you are mod savy, it makes me choose between this or LDK's stuff. Also I wasn't sure if I wanted to turn a lot of stuff black.
-
 ## Environment
 
 These contain texture improvements for Gran Soren and Gransys. The resolution is 4K. There was another texture improvement project that had several parts to it, but I'd.. rather wait until Dragon's Dogma 2 then try to overhaul the game like the Skyrim modders do.
@@ -51,8 +47,15 @@ These contain texture improvements for Gran Soren and Gransys. The resolution is
 
 ---
 
+## Optional Mods
+
+- [Black Retextures & More](https://www.nexusmods.com/dragonsdogma/mods/5) -- Colors a lot of armors, mostly assassin-themed ones black. Unless you are mod savy, it makes me choose between this or LDK's stuff. Also I wasn't sure if I wanted to turn a lot of stuff black.
+- [Chainmail Textures 6K](https://www.nexusmods.com/dragonsdogma/mods/479) -- I wanted to use this, but old notes about 6K textures causes crashes scare me. Feel free to use if you want.
+
+---
+
 ### LIST MODIFICATIONS
 
-If you want to modify the list, I hereby refer you to [Modding Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Modding%20Documentation.md). 
+If you want to modify the list and or get into the 'param' tweak mods (such as modifying Jump Height, Carry Weight, Stamina Drain etc), I hereby refer you to [Modding Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Modding%20Documentation.md). 
 
 Everything will be explained there.
