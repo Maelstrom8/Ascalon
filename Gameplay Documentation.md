@@ -50,9 +50,7 @@ These are not enabled, but included as optionals within the list.
 - [Black Retextures & More](https://www.nexusmods.com/dragonsdogma/mods/5) -- Colors a lot of armors, mostly assassin-themed ones black. Unless you are mod savy, it appears to be either this or LDK's Armory, so I'd uhh, yeah. Also I wasn't sure if I wanted to turn a lot of stuff black.
 - [Chainmail Textures 6K](https://www.nexusmods.com/dragonsdogma/mods/479) -- I wanted to use this, but old notes about 6K textures causes crashing scare me. Feel free to use if you want.
 
----
-
-# LIST MODIFICATIONS
+## LIST MODIFICATIONS
 
 If you want to modify the list and or get into the 'param' tweak mods (such as modifying Jump Height, Carry Weight, Stamina Drain etc), I hereby refer you to [Modding Documentation](https://github.com/Maelstrom8/Ascalon/blob/main/Modding%20Documentation.md). 
 
