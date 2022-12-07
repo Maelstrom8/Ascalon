@@ -62,10 +62,10 @@ Any modifications done to a pawn that is considered "not-achievable" by legitima
 - Changing the DP cost for Vocation Ranks has not been confirmed
 - Changing Carry Weight / Jump Height / Stamina Drain does not seem to put your pawn in danger
 - Changing Quest Rewards does not affect pawns in any way
-- Using dinput8.dll could possibly invalidate your pawn
+- Using dinput8.dll (cheat tool) could possibly invalidate your pawn
 
-Invalidation of a pawn is only caused if you are playing with *these* mods and have your pawn-sharing-status set to Online. How the detection roughly works is that if you are not using a list, and are using for example.. an Augment tweak mod, it is totally fine client-side. The augments only change on your end, but once you send the pawn back, no mods are going through the server.
+Invalidation of a pawn is only caused if you are playing with *these* mods and have your pawn-sharing-status set to Online and someone else with the mod finds your pawn (?). How the detection roughly works is that if you are not using a list, and are using for example.. an Augment tweak mod, it is totally fine client-side. The augments only change on your end, but once you send the pawn back, no mods are going through the server - because the other person doesn't have mods.. right?
 
-NOW - Here's the funny thing. You are not safe to use these mods if someone hiring your pawn also has the mod. To explain further on that, if I decided to make tweaks to the Augments, and release it in a list, for those who are wanting to share your pawns with others using the list - it is a game of how long until someone else using the list finds your pawn and immediately gets it corrupted!
+NOW - Here's the funny thing. You are not safe to use these mods if someone hiring your pawn also has the mod. To explain further on that, if I decided to make tweaks to the Augments, and release it in a list, for those who are wanting to share your pawns with others using the list - it is a game of how long until someone else using the list finds your pawn and immediately gets it corrupted! TRUE MULTIPLAYER
 
 If you're using dangerous mods, just set your pawn to private! This should cover everything but don't be afraid to ask questions.
