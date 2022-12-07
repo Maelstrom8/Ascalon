@@ -39,7 +39,7 @@ Most of it is from LDKSuperDante. I didn't like any of the 'switch around armor 
 
 ## Environment
 
-These contain texture improvements for Gran Soren and Gransys. The resolution is 4K. There was another texture improvement project that had several parts to it, but I'd.. rather wait until Dragon's Dogma 2 then try to overhaul the game like the Skyrim modders do.
+These contain texture improvements for Gran Soren and Gransys. The resolution is 4K. There was another texture improvement project that had several parts to it, but quite honestly instead of tryna beautify this game like Skyrim modders do to Skyrim, I'd rather just wait for Dragon's Dogma 2 on the RE Engine.
 
 - [Remastering Dragon's Dogma Final Sneak Peek - Gran Soren](https://www.nexusmods.com/dragonsdogma/mods/492?tab=description) -- Contains only Gran Soren
 - [Remastering Dragon's Dogma Sneak Peek 2 - Gransys](https://www.nexusmods.com/dragonsdogma/mods/489?tab=description) 
