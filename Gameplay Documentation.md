@@ -48,8 +48,10 @@ These contain texture improvements for Gran Soren and Gransys. The resolution is
 
 ## Optional Mods
 
-- [Black Retextures & More](https://www.nexusmods.com/dragonsdogma/mods/5) -- Colors a lot of armors, mostly assassin-themed ones black. Unless you are mod savy, it makes me choose between this or LDK's stuff. Also I wasn't sure if I wanted to turn a lot of stuff black.
-- [Chainmail Textures 6K](https://www.nexusmods.com/dragonsdogma/mods/479) -- I wanted to use this, but old notes about 6K textures causes crashes scare me. Feel free to use if you want.
+These are not enabled, but included as optionals within the list. 
+
+- [Black Retextures & More](https://www.nexusmods.com/dragonsdogma/mods/5) -- Colors a lot of armors, mostly assassin-themed ones black. Unless you are mod savy, it appears to be either this or LDK's Armory, so I'd uhh, yeah. Also I wasn't sure if I wanted to turn a lot of stuff black.
+- [Chainmail Textures 6K](https://www.nexusmods.com/dragonsdogma/mods/479) -- I wanted to use this, but old notes about 6K textures causes crashing scare me. Feel free to use if you want.
 
 ---
 
