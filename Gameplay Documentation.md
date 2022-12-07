@@ -29,12 +29,12 @@ I was almost going to include the optimized nude mod, but I was able to stop mys
 
 ## Outfits, Armors & Weapons
 
-Most of it is from LDKSuperDante. I didn't like any of the 'switch around armor ids to make transmogs' mods. I don't want an armor's appearence replacing another, they're kinda annoying. I didn't like many of the other edits to outfits as well. There is a mod called DD Restyling for example that made weird edits to clothing coverage.. it's just bad in my opinion.
+Most of it is from LDKSuperDante. I didn't like any of the 'switch around armor ids to make transmogs' mods. I don't want an armor's appearance replacing another, they're kinda annoying. I also didn't like many of the other edits to outfits as well. There is a mod called DD Restyling for example that made weird edits to clothing coverage.. it's just bad in my opinion.
 
 - [LDK's Armory](https://www.nexusmods.com/dragonsdogma/mods/721) -- Contains a collection of improved resolution on armor.
 - [Remastering Dragon's Dogma Sneak Peek](https://www.nexusmods.com/dragonsdogma/mods/479?tab=description). Contains 4K versions of some armor, and items.
 - [Real Steel](https://www.nexusmods.com/dragonsdogma/mods/494) -- Contains some weapons with texture improvements.
-- [No Clipping Cloaks](https://www.nexusmods.com/dragonsdogma/mods/140) -- Fixes clipping issues for Alchemical Cloak, Sovereigns Mantle and Wyrm Hunt Mantle. One of the cloak's fixes may potentially be overwritten by one of LDK's mods. Small issues like this will have to be saved for a future update.
+- [No Clipping Cloaks](https://www.nexusmods.com/dragonsdogma/mods/140) -- Fixes clipping issues for Alchemical Cloak, Sovereigns Mantle and Wyrm Hunt Mantle. One of the cloaks fixes may potentially be overwritten by one of LDK's mods. Small issues like this will have to be saved for a future update.
 
 
 ## Environment
