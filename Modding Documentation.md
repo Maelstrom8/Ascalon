@@ -68,4 +68,4 @@ Invalidation of a pawn is only caused if you are playing with *these* mods and h
 
 NOW - Here's the funny thing. You are not safe to use these mods if someone hiring your pawn also has the mod. To explain further on that, if I decided to make tweaks to the Augments, and release it in a list, for those who are wanting to share your pawns with others using the list - it is a game of how long until someone else using the list finds your pawn and immediately gets it corrupted!
 
-If you're using dangerous mods, just set to pawn to private! This should cover everything but don't be afraid to ask questions.
+If you're using dangerous mods, just set your pawn to private! This should cover everything but don't be afraid to ask questions.
