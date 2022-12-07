@@ -24,7 +24,7 @@ I was almost going to include the optimized nude mod, but I was able to stop mys
 ## Main Menu / Audio
 
 - [10th Anniversary Loading Screen](https://www.nexusmods.com/dragonsdogma/mods/719) -- Self-explanatory.
-- [Dragon's Dogma Main Menu OST: Coils of Light](https://www.nexusmods.com/dragonsdogma/mods/94). Main Menu OST was replacing with Coils of Light - English Version. I love the song.
+- [Dragon's Dogma Main Menu OST: Coils of Light](https://www.nexusmods.com/dragonsdogma/mods/94) -- Main Menu OST was replaced with Coils of Light - English Version. I love the song.
 - [Dragon's Dogma Online Music Project](https://www.nexusmods.com/dragonsdogma/mods/733) -- A bunch of tracks in-game were replaced with tracks from Dragon's Dogma Online
 
 ## Outfits, Armors & Weapons
