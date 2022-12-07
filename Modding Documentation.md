@@ -14,7 +14,7 @@ Mod Organizer 2 can actually manage the game fairly well, and the mods for DD:DA
 
 You will see a lot of outfit and armor texture mods that are enabled. They overwrite smaller individual .arc files, they are typically textures or other things. These mods work as intended when enabled.
 
-And then we have the ARCTool Output. This consists of these main archives: bbs_rpg.arc, bbsrpg_core.arc, game_main.arc and title.arc. It is essentially where the rest of the mods get merged into. Here is some examples of what is currently inside these. Actually this is most of it, the main menu OST is split between title.arc and somewhere else.
+And then we have the ARCTool Output. This consists of these main archives: bbs_rpg.arc, bbsrpg_core.arc, game_main.arc and title.arc. It is essentially where the rest of the mods get merged into. Here is some examples of what is currently inside these. Actually this is most of it except the main menu OST which is split between title.arc and somewhere else.
 
 - 10th Anniversary Loading Screen is located under bbs_rpg.arc and bbsrpg_core.arc. Advanced: `bbs_rpg\id\DDN\load\load01_ID.tex' & 'bbsrpg_core\id\DDN\load\load01_ID.tex`
 - Easy Clothing ID with HD Icons is located under game_main.arc. Advanced: `game_main\dl1\id\common\item\combinedItemIcon_ID.tex`
