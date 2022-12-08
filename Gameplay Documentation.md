@@ -3,7 +3,7 @@
 
 I did not really mention it in the primary readme, but while Ascalon is a lightly modded list with educational purposes, it is also a list that is partially made up of mods from the user [LDKSuperDante](https://www.nexusmods.com/dragonsdogma/users/23347084). I really like the cut of his jib. I strive to include as much as I can from him, granted they are up to date.
 
-Here is a list of mods, though.
+**Ascalon and or the standard profile consists of the following mods. It is pawn-safe, it is the way it is meant to be played. Details on mods merged into the arc files can be found on the Modding Documentation**
 
 ## Visuals
 
@@ -42,6 +42,8 @@ These contain texture improvements for Gran Soren and Gransys. The resolution is
 
 - [Remastering Dragon's Dogma Final Sneak Peek - Gran Soren](https://www.nexusmods.com/dragonsdogma/mods/492?tab=description) -- Contains only Gran Soren
 - [Remastering Dragon's Dogma Sneak Peek 2 - Gransys](https://www.nexusmods.com/dragonsdogma/mods/489?tab=description) 
+
+---
 
 ## Optional Mods
 
